@@ -56,17 +56,25 @@ Turning data into insight, and insight into intelligent software.
 
 ## 🧩 Selected work (from my repos)
 
+<div align="center">
+
+<img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="45" />
+
 ### 📊 Data Science & Analytics
-- **PDAN Projects** (Notebook‑based analysis + modeling)
-- **Quantium Data Analysis Project** (exploration + reporting)
-- **Research report & scoping review** (structured academic analysis)
+[![Client_Project_BCGX](https://github-readme-stats.vercel.app/api/pin/?username=JanickVision27&repo=Client_Project_BCGX&theme=tokyonight)](https://github.com/JanickVision27/Client_Project_BCGX)
+[![Quantium_DataAnalysis_Project](https://github-readme-stats.vercel.app/api/pin/?username=JanickVision27&repo=Quantium_DataAnalysis_Project&theme=tokyonight)](https://github.com/JanickVision27/Quantium_DataAnalysis_Project)
+
+<img src="https://media.giphy.com/media/26gslMAdctNhu6YnK/giphy.gif" width="45" />
 
 ### 🤖 AI/ML Experiments
-- **Streamlit CNN Application** (Python + deployment)
-- **Agentic AI Engineering** (coursework + experiments)
+[![agents](https://github-readme-stats.vercel.app/api/pin/?username=JanickVision27&repo=agents&theme=tokyonight)](https://github.com/JanickVision27/agents)
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="45" />
 
 ### 💻 Software Development
-- **APDS POE Web Project** (JavaScript + HTML/CSS)
+- APDS POE Web Project (JavaScript + HTML/CSS)
+
+</div>
 
 ---
 
