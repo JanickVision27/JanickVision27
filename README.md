@@ -81,7 +81,7 @@ My focus is on the intersection of **classical machine learning**, **modern GenA
 |---|---|---|---|
 | [**BCG X — Customer Churn**](https://github.com/JanickVision27/Client_Project_BCGX) | Churn prediction for 14,606 utility customers | Python, Random Forest, SMOTE | **90% accuracy**, ~€97K savings identified |
 | [**Quantium — Retail Analytics**](https://github.com/JanickVision27/Quantium_DataAnalysis_Project) | Behavioural analysis of 245K+ transactions | Python, Pandas, Seaborn | Segment insights → Category Manager recommendations |
-| **MRI Brain Tumour Classifier** | End-to-end CNN pipeline for 4-class medical image classification | TensorFlow, Keras, PySpark | **99% accuracy** on 7,023 images |
+| [**MRI Brain Tumour Classifier**](https://github.com/JanickVision27/MRI_Brain_Tumor_Analysis)| End-to-end CNN pipeline for 4-class medical image classification | TensorFlow, Keras, PySpark | **99% accuracy** on 7,023 images |
 
 ---
 
