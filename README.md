@@ -1,6 +1,6 @@
 <div align="center">
 
-# Venkata Vikranth Jannatha (Janick) 👋
+# Venkata Vikranth Jannatha 👋
 
 **Data Scientist · AI/ML Engineer · Analytics Builder**
 
