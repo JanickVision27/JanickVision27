@@ -89,8 +89,7 @@ I am a **Software Engineer** specializing in the intersection of **Full-Stack Ap
 
 <div align="center">
 
-![Janick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JanickVision27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JanickVision27&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JanickVision27&theme=tokyonight&hide_border=true" alt="Venkata's Activity Graph" />
 
 </div>
 
