@@ -60,11 +60,17 @@ I am a **Software Engineer** specializing in the intersection of **Full-Stack Ap
 
 ## 🚀 Featured Production & Engineering Projects
 
-### 🛠️ Full-Stack & Agentic AI Infrastructure
+### 💻 Software Engineering Systems
 
 | Project | Description | Core Engineering Stack |
 |---|---|---|
-| [**Secure International Banking Engine**](https://github.com/JanickVision27/APDS_POE) | Engineered a complete banking transaction API utilizing strict security protocols (JWT, bcrypt encryption, rate-limiting, Helmet) hardened against OWASP Top 10 vectors. | Java, Spring Boot, Spring Data JPA, React, Node.js, Express |
+| [**Vacation Request Management API**](https://github.com/JanickVision27/Spring-Boot-Project-Java) | Built a RESTful API featuring 7 role-based endpoints enforcing automated organizational policies. Implemented enterprise service patterns, centralized global exception handlers, and 29 automated JUnit/Mockito test suites. | Java, Spring Boot, Spring Data JPA, H2 Database, JUnit, Mockito |
+| [**Secure International Banking Engine**](https://github.com/JanickVision27/APDS_POE) | Engineered a complete banking transaction API utilizing strict security protocols (JWT, bcrypt encryption, rate-limiting, Helmet) hardened against OWASP Top 10 vectors. Exposes 11 endpoints supporting multi-currency and SWIFT validation. | Java, Spring Boot, React, Node.js, Express, Spring Data JPA |
+
+### 🛠️ Agentic AI Infrastructure
+
+| Project | Description | Core Engineering Stack |
+|---|---|---|
 | [**Stock-Picker: Hierarchical Agent Engine**](https://github.com/JanickVision27/agents) | Built a multi-agent financial screening application managing state and contextual continuity across short, long, and entity memory structures backed by persistent storage. | CrewAI Framework, Python, SQLite Layer, Telegram Webhook API, SerperDev |
 | **Context-Grounded Resume Assistant** | Developed a text-parsing web application running a dynamic runtime PDF extraction pipeline with strict OpenAI function tool-calling logic to eliminate model hallucinations. | Python, OpenAI Tool-Calling, Gradio, Hugging Face Spaces, PyPDF |
 
@@ -75,7 +81,6 @@ I am a **Software Engineer** specializing in the intersection of **Full-Stack Ap
 | [**BCG X — Customer Churn Pipeline**](https://github.com/JanickVision27/Client_Project_BCGX) | Engineered a predictive churn model tracking energy usage metrics for 14,606 enterprise clients. Balanced datasets via SMOTE sampling. | Python, Random Forest, SMOTE, Seaborn | **90% prediction accuracy**, identifying €97K in risk savings. |
 | [**Quantium — Behavioral Retail Analytics**](https://github.com/JanickVision27/Quantium_DataAnalysis_Project) | Processed and evaluated transactional customer purchasing patterns across 245K+ distinct database records. | Python, Pandas, Advanced Data Modeling | Strategic segment metrics delivered directly to Category Management. |
 | [**MRI Image Classifier Neural Network**](https://github.com/JanickVision27/MRI_Brain_Tumor_Analysis) | Constructed an end-to-end Convolutional Neural Network (CNN) architecture for multi-class clinical brain tumor identification. | TensorFlow, Keras, PySpark, Matplotlib | **99% validation accuracy** attained over 7,023 image datasets. |
-
 ---
 
 ## 📈 Active Focus Areas
