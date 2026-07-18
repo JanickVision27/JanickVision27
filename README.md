@@ -64,7 +64,7 @@ I am a **Software Engineer** specializing in the intersection of **Full-Stack Ap
 
 | Project | Description | Core Engineering Stack |
 |---|---|---|
-| **Secure International Banking Engine** | Engineered a complete banking transaction API utilizing strict security protocols (JWT, bcrypt encryption, rate-limiting, Helmet) hardened against OWASP Top 10 vectors. | Java, Spring Boot, Spring Data JPA, React, Node.js, Express |
+| [**Secure International Banking Engine**](https://github.com/JanickVision27/APDS_POE) | Engineered a complete banking transaction API utilizing strict security protocols (JWT, bcrypt encryption, rate-limiting, Helmet) hardened against OWASP Top 10 vectors. | Java, Spring Boot, Spring Data JPA, React, Node.js, Express |
 | [**Stock-Picker: Hierarchical Agent Engine**](https://github.com/JanickVision27/agents) | Built a multi-agent financial screening application managing state and contextual continuity across short, long, and entity memory structures backed by persistent storage. | CrewAI Framework, Python, SQLite Layer, Telegram Webhook API, SerperDev |
 | **Context-Grounded Resume Assistant** | Developed a text-parsing web application running a dynamic runtime PDF extraction pipeline with strict OpenAI function tool-calling logic to eliminate model hallucinations. | Python, OpenAI Tool-Calling, Gradio, Hugging Face Spaces, PyPDF |
 
