@@ -118,18 +118,17 @@ I'm currently expanding my expertise in **Java Spring Boot, React, SQL, Data Str
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=JanickVision27&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.shion.dev/api?username=JanickVision27&theme=dark&hide_border=false&include_all_commits=true&count_private=false"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanickVision27&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=JanickVision27&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=JanickVision27&theme=tokyonight&no-frame=true&margin-w=10"/>
+<img width="700" src="https://streak-stats.demolab.com/?user=JanickVision27&theme=dark&hide_border=false"/>
 
 </div>
-
 ---
 
 # 🎓 Education
