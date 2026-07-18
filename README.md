@@ -1,10 +1,10 @@
 <div align="center">
 
-# Venkata Vikranth Jannatha 👋
+# 👋 Hi, I'm Venkata Vikranth Jannatha
 
-**Software Engineer | Full-Stack Developer | Data Analytics & AI**
+### Software Engineer | Full-Stack Developer | Data Analytics & Machine Learning
 
-*Building robust application stacks and engineering intelligent, data-driven systems.*
+Building scalable applications, RESTful APIs, and data-driven solutions with modern software engineering practices.
 
 [![Profile Views](https://komarev.com/ghpvc/?username=JanickVision27&color=0891b2&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/JanickVision27)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkata-vikranth-jannatha-642323244/)
@@ -14,20 +14,24 @@
 
 ---
 
-## 🧭 About Me
+# 👨‍💻 About Me
 
-I am a **Software Engineer** specializing in the intersection of **Full-Stack Application Development**, **Modern Data Analytics**, and **Agentic AI systems**. I focus on building clean, high-performing codebases and translating complex datasets into actionable system intelligence. 
+I'm a **Software Engineer** with experience in **Full-Stack Development, Data Analytics, and Machine Learning**. I enjoy designing scalable backend systems, developing responsive web applications, and applying data-driven techniques to solve real-world problems.
 
-- 💻 **Full-Stack Development:** Architecting robust RESTful backends (Java Spring Boot, Node.js) paired with responsive, secure user interfaces (React, TypeScript).
-- 📊 **Data Engineering & Analytics:** Writing highly optimized relational queries, performing advanced EDA pipelines, and building business-critical diagnostic dashboards.
-- 🤖 **Agentic AI Architecture:** Implementing production-ready, multi-agent orchestration layers, state/memory management routines, and strict tool-calling workflows.
-- 🌍 **Based in:** Hyderabad, India · Open to immediate on-site, hybrid, and global opportunities.
+I'm currently expanding my expertise in **Java Spring Boot, React, SQL, Data Structures & Algorithms, and AI applications**, while actively seeking Software Engineer and Data Analyst opportunities.
+
+- 💻 Build secure full-stack web applications using Java Spring Boot, React, Node.js, and Express.
+- 📊 Analyze data and develop predictive machine learning models using Python and SQL.
+- ⚙️ Design RESTful APIs with clean architecture and enterprise software development practices.
+- 🌱 Continuously learning modern software engineering and AI technologies.
+- 🌍 Based in Hyderabad, India.
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### ☕ Full-Stack Software Engineering
+## 💻 Software Engineering
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -35,22 +39,33 @@ I am a **Software Engineer** specializing in the intersection of **Full-Stack Ap
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### 📊 Data Science, Analytics & ML
+---
+
+## 📊 Data Analytics & Machine Learning
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-### 🤖 GenAI & AI Agent Orchestration
-![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=for-the-badge&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_SDK-412991?style=for-the-badge&logo=openai&logoColor=white)
+---
+
+## 🤖 AI & Generative AI
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=for-the-badge)
 ![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge)
 
-### ⚙️ Database, DevOps & Testing
+---
+
+## ⚙️ Databases, DevOps & Testing
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -58,58 +73,84 @@ I am a **Software Engineer** specializing in the intersection of **Full-Stack Ap
 
 ---
 
-## 🚀 Featured Production & Engineering Projects
+# 🚀 Featured Projects
 
-### 💻 Software Engineering Systems
+## 💻 Software Engineering
 
-| Project | Description | Core Engineering Stack |
-|---|---|---|
-| [**Vacation Request Management API**](https://github.com/JanickVision27/Spring-Boot-Project-Java) | Built a RESTful API featuring 7 role-based endpoints enforcing automated organizational policies. Implemented enterprise service patterns, centralized global exception handlers, and 29 automated JUnit/Mockito test suites. | Java, Spring Boot, Spring Data JPA, H2 Database, JUnit, Mockito |
-| [**Secure International Banking Engine**](https://github.com/JanickVision27/APDS_POE) | Engineered a complete banking transaction API utilizing strict security protocols (JWT, bcrypt encryption, rate-limiting, Helmet) hardened against OWASP Top 10 vectors. Exposes 11 endpoints supporting multi-currency and SWIFT validation. | Java, Spring Boot, React, Node.js, Express, Spring Data JPA |
-
-### 🛠️ Agentic AI Infrastructure
-
-| Project | Description | Core Engineering Stack |
-|---|---|---|
-| [**Stock-Picker: Hierarchical Agent Engine**](https://github.com/JanickVision27/agents) | Built a multi-agent financial screening application managing state and contextual continuity across short, long, and entity memory structures backed by persistent storage. | CrewAI Framework, Python, SQLite Layer, Telegram Webhook API, SerperDev |
-| **Context-Grounded Resume Assistant** | Developed a text-parsing web application running a dynamic runtime PDF extraction pipeline with strict OpenAI function tool-calling logic to eliminate model hallucinations. | Python, OpenAI Tool-Calling, Gradio, Hugging Face Spaces, PyPDF |
-
-### 📊 Data Analysis & Classical Machine Learning
-
-| Project | Analytics Scope & Description | Technology Stack | Measurable Outcome |
-|---|---|---|---|
-| [**BCG X — Customer Churn Pipeline**](https://github.com/JanickVision27/Client_Project_BCGX) | Engineered a predictive churn model tracking energy usage metrics for 14,606 enterprise clients. Balanced datasets via SMOTE sampling. | Python, Random Forest, SMOTE, Seaborn | **90% prediction accuracy**, identifying €97K in risk savings. |
-| [**Quantium — Behavioral Retail Analytics**](https://github.com/JanickVision27/Quantium_DataAnalysis_Project) | Processed and evaluated transactional customer purchasing patterns across 245K+ distinct database records. | Python, Pandas, Advanced Data Modeling | Strategic segment metrics delivered directly to Category Management. |
-| [**MRI Image Classifier Neural Network**](https://github.com/JanickVision27/MRI_Brain_Tumor_Analysis) | Constructed an end-to-end Convolutional Neural Network (CNN) architecture for multi-class clinical brain tumor identification. | TensorFlow, Keras, PySpark, Matplotlib | **99% validation accuracy** attained over 7,023 image datasets. |
----
-
-## 📈 Active Focus Areas
-*   **Systems & Architecture:** Advanced backend performance optimizations and clean system design principles.
-*   **Core Fundamentals:** Data Structures & Algorithms (DSA) in Python/Java and relational query optimization (Window functions, CTEs).
-*   **Data Modeling:** Designing sophisticated Power BI dashboard architectures leveraging robust DAX metrics.
+| Project | Description | Tech Stack |
+|----------|-------------|------------|
+| **[Vacation Request Management API](https://github.com/JanickVision27/Spring-Boot-Project-Java)** | RESTful leave management API supporting employee and manager workflows with validation, exception handling, and automated testing. | Java, Spring Boot, Spring Data JPA, H2, JUnit, Mockito |
+| **[Secure International Banking System](https://github.com/JanickVision27/APDS_POE)** | Secure full-stack banking application supporting multi-currency transactions with JWT authentication, bcrypt password hashing, CI/CD, and OWASP security practices. | React, Node.js, Express, MongoDB, JWT, CircleCI |
 
 ---
 
-## 📊 GitHub Technical Footprint
+## 📊 Data Analytics & Machine Learning
+
+| Project | Description | Tech Stack |
+|----------|-------------|------------|
+| **[Customer Churn Prediction (BCG X)](https://github.com/JanickVision27/Client_Project_BCGX)** | Built a machine learning pipeline to predict customer churn using feature engineering, SMOTE balancing, and Random Forest classification. | Python, Pandas, Scikit-learn, Random Forest, SMOTE |
+| **[Retail Customer Analytics (Quantium)](https://github.com/JanickVision27/Quantium_DataAnalysis_Project)** | Performed exploratory data analysis and customer segmentation on retail transaction data to generate business insights. | Python, Pandas, Matplotlib, Seaborn |
+| **[MRI Brain Tumor Classification](https://github.com/JanickVision27/MRI_Brain_Tumor_Analysis)** | Developed a CNN-based image classification pipeline for MRI brain tumor detection with preprocessing, model evaluation, and Streamlit deployment. | TensorFlow, Keras, PySpark, Streamlit |
+
+---
+
+## 🤖 AI Applications
+
+| Project | Description | Tech Stack |
+|----------|-------------|------------|
+| **[Multi-Agent Stock Analysis System](https://github.com/JanickVision27/agents)** | Multi-agent AI workflow for stock research using memory, tools, and autonomous task orchestration. | CrewAI, Python, SQLite, OpenAI |
+| **Resume Assistant** | AI-powered application that extracts information from resumes and provides context-aware responses using tool-calling workflows. | Python, OpenAI SDK, Gradio, Hugging Face |
+
+---
+
+# 🌱 Currently Learning
+
+- Advanced Java & Spring Boot
+- System Design Fundamentals
+- Data Structures & Algorithms
+- Advanced SQL
+- React & Modern Frontend Development
+- Generative AI Applications
+
+---
+
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JanickVision27&theme=tokyonight&hide_border=true" alt="Venkata's Activity Graph" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=JanickVision27&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanickVision27&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=JanickVision27&theme=tokyonight&no-frame=true&margin-w=10"/>
 
 </div>
 
 ---
 
-## 🏆 Education & Credentials
+# 🎓 Education
 
-- 🎓 **Postgraduate Diploma in Data Analytics** — High Distinction, 88% average
-- 🎓 **Bachelor of Information & Computer Science** — High Distinction, 87% average
-- 📘 **Advanced Full-Stack Engineering Track** — Enterprise Java & Agile Application Development 
-- 📘 **AI Engineer Agentic Architecture Track** — LLM Orchestration, Memory Layering, and Tool-Calling Dynamics
+### **Postgraduate Diploma in Data Analytics**
+**Emeris** • 2025
 
-***
+- High Distinction
+- Overall Average: **88%**
 
-### 💡 Why this works perfectly for your profile:
-1. **Perfect Structural Blending:** Instead of dividing your profile completely in half, the text and badges treat Full-Stack and Analytics as mutually supportive skills. It explicitly shows that you know how to build web software *and* analyze data.
-2. **Standardized Project Tables:** We updated the project tables to explicitly list your **Secure Banking Engine**, **Stock-Picker**, and **Resume Assistant** alongside your high-performing BCG X and Quantium data projects.
-3. **Professional Vocabulary:** It completely swaps out informal wording for precise corporate software keywords ("Engineered," "Architected," "Optimized"), making your profile look clean and highly competitive to scanning technical recruiters.
+### **Bachelor of Information & Computer Science**
+**Emeris** • 2023
+
+- High Distinction
+- Overall Average: **87%**
+
+---
+
+# 📫 Let's Connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/venkata-vikranth-jannatha-642323244/
+- 📧 Email: **vjannatha@gmail.com**
+
+I'm always open to discussing software engineering, backend development, machine learning, and exciting collaboration opportunities.
