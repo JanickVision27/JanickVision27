@@ -109,8 +109,7 @@ I'm currently expanding my expertise in **Java Spring Boot, React, SQL, Data Str
 - System Design Fundamentals
 - Data Structures & Algorithms
 - Advanced SQL
-- React & Modern Frontend Development
-- Generative AI Applications
+- Agentic AI work such as Crew AI, OpenAI, MCP, AutoGen, Langraph
 
 ---
 
